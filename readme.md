@@ -1,5 +1,5 @@
 ---
-- react-select@major
+react-select: major
 ---
 
 My summary here.
