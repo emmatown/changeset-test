@@ -2,4 +2,4 @@
 react-select: major
 ---
 
-My summary here.
+My summary here
