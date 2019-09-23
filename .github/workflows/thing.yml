@@ -1,0 +1,13 @@
+on:
+  check_run:
+    types: [rerequested, requested_action, created, completed]
+
+name: Test Thing
+
+jobs:
+  check:
+    name: Test Thing
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test Thing
+        run: echo "{{ toJson(github) }}"
