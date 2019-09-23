@@ -1,4 +1,4 @@
 ---
 something: major
 ---
-wow
+wow, some words
